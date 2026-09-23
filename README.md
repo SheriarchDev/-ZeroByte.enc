@@ -34,7 +34,7 @@ The SHA-256 checksum below allows users to verify that their downloaded executab
 
 | File           | SHA-256 Checksum                                                  |
 | :------------- | :---------------------------------------------------------------- |
-| `zerobyte.exe` | `eb4068758819d8162c008174033d53c1ad3cd2ae3ae0a73e0271d4dbc67ad8e` |
+| `zerobyte.exe` | `eb4068758819d8162c008174033d53c1ad3cd2ae3ae0a73e0271d4dbc67ad8ef` |
 
 To verify the checksum on Windows PowerShell:
 
@@ -115,7 +115,7 @@ ZeroByte.enc создан с особым вниманием к **приватн
 
 | Файл           | Контрольная сумма SHA-256                                         |
 | :------------- | :---------------------------------------------------------------- |
-| `zerobyte.exe` | `eb4068758819d8162c008174033d53c1ad3cd2ae3ae0a73e0271d4dbc67ad8e` |
+| `zerobyte.exe` | `eb4068758819d8162c008174033d53c1ad3cd2ae3ae0a73e0271d4dbc67ad8ef` |
 
 Проверить контрольную сумму в Windows PowerShell можно командой:
 
